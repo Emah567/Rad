@@ -2072,6 +2072,15 @@ textarea.w-input, textarea.w-select {
   box-shadow: 1rem 1rem 0 black;
 }
 
+.edge2{
+  border-radius: 0.8rem;
+  box-shadow: 1rem 1rem 0 #5A80B3;
+  height: 21rem;
+  width: 20rem;
+}
+
+
+
 :root {
   --purpule: #124384;
   --white: white;
@@ -2610,6 +2619,7 @@ z-index: 9;
 .decorative {
   position: absolute;
   inset: 0% 0% auto auto;
+  display: none;
 }
 
 .decorative.button {
