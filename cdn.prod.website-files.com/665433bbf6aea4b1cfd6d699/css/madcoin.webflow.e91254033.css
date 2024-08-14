@@ -1045,7 +1045,7 @@ textarea.w-input, textarea.w-select {
 }
 
 .w-widget-twitter-count-shim * {
-  pointer-events: none;
+  pointer-events: auto;
   -webkit-user-select: none;
   user-select: none;
 }
@@ -1085,7 +1085,7 @@ textarea.w-input, textarea.w-select {
 
 .w-widget-twitter-count-shim:not(.w--vertical):before, .w-widget-twitter-count-shim:not(.w--vertical):after {
   content: " ";
-  pointer-events: none;
+  pointer-events: auto;
   border: solid #0000;
   width: 0;
   height: 0;
@@ -1128,7 +1128,7 @@ textarea.w-input, textarea.w-select {
 
 .w-widget-twitter-count-shim.w--vertical:before, .w-widget-twitter-count-shim.w--vertical:after {
   content: " ";
-  pointer-events: none;
+  pointer-events: auto;
   border: solid #0000;
   width: 0;
   height: 0;
@@ -2292,7 +2292,7 @@ display: none !important;
 }
 
 .w-inline-block{
-pointer-events: none;
+pointer-events: auto;
 cursor: default;
 }
 .grid.big {
