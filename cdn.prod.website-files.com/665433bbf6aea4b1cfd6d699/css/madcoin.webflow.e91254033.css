@@ -2185,7 +2185,7 @@ p {
 }
 
 .section.memesafterdark {
-  background-image: url("../667eb56918ac7528ff93755b_Group%2028.png");
+  background-image: url("../../../img/gee.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2203,7 +2203,7 @@ p {
 } */
 
 .section.join {
-  background-image: linear-gradient(#000000b3, #000000b3), url("../667f0bcd54f51d5147818fb7_240527-MAD-SPACESHIP.png");
+  background-image: linear-gradient(#000000b3, #000000b3), url("../../../img/gee.png");
   background-position: 0 0, 50% 40%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -4305,7 +4305,7 @@ COMMING SOONN..
 
     
   .section.memesafterdark {
-    background-image: url("../667eb56918ac7528ff93755b_Group%2028.png");
+    background-image: url("../../../img/gee.png");
     background-position: 50% 100%;
     min-width: 100%;
     min-height: 100%;
