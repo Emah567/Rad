@@ -2300,10 +2300,7 @@ p {
 display: none !important;
 }
 
-.w-inline-block{
-pointer-events: auto;
-cursor: default;
-}
+
 .grid.big {
   max-width: 80rem;
   margin-left: auto;
